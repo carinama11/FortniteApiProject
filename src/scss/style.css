@@ -1150,7 +1150,7 @@ html {
 
 .item-list .best-4-item-container .item-item__legendary,
 .item-list .all-item .item-item__legendary {
-  background: radial-gradient(circle, #ede28b 4%, #db8700 100%);
+  background: radial-gradient(circle, #ede28b 3%, #db8700 100%);
   border: 5px solid #fc983b;
 }
 
